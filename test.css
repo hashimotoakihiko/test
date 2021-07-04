@@ -1,0 +1,59 @@
+input[type=text], input[type=date]  { 
+  width: 280px; 
+ } 
+ 
+ input[type=number],#introduction,#activity{ 
+  width: 280px; 
+ } 
+ 
+ 
+   body {
+     background-color: #fff;
+ 
+   }
+ 
+   .header {
+     padding:12px;
+     color: #FFF;
+     background-color:#525252;
+     width:480px;
+     margin:0px;
+   }
+   
+   form{
+     width:480px;
+     background-color:#bbb;
+     padding:12px;
+   }
+ 
+   label {
+    display:block;
+    width:120px;
+    float:left;
+    margin-right:30px;
+   }
+   
+  
+   
+ 
+   input[type="submit"] {
+     background-color:#525252;
+     color:#FFF;
+     font-weight:bolder;
+     width:50px;
+     display:block;
+     border-radius:2px;
+     border: 0px solid #000;
+ 
+   }
+ 
+   input[type="submit"]:hover{
+     color: #808080;
+ 
+   }
+   
+   .button{
+    margin-left:400px;
+    padding:3px 15px;
+   }
+ 
